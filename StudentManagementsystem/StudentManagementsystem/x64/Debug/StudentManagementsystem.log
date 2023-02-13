@@ -1,0 +1,4 @@
+﻿  StudentManagement.cpp
+D:\C-learning\StudentManagementsystem\StudentManagementsystem\StudentManagement.cpp(40,33): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\C-learning\StudentManagementsystem\StudentManagementsystem\StudentManagement.cpp(40,33): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  StudentManagementsystem.vcxproj -> D:\C-learning\StudentManagementsystem\x64\Debug\StudentManagementsystem.exe
